@@ -1,10 +1,6 @@
 # Bayesian-Inference
 # **********************************************************************************************************************
 #
-# Name: Ritesh Jawale
-#
-# CSCI 561
-#
 # Homework 3 : Bayesian Inference
 #
 # Problem Statement:
